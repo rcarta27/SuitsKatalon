@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite1,Chrome 114.0.0.0,Test Suite1,,2023-06-22 16:09:34,2023-06-22 16:09:48,14.080s,PASSED
+,,,,,,,
+Test Cases/CBStocksAdmin,Chrome 114.0.0.0,CBStocksAdmin,0.1,2023-06-22 16:09:34,2023-06-22 16:09:48,13.810s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-22 16:09:34,2023-06-22 16:09:37,3.070s,PASSED
+"navigateToUrl(""https://cmiti-dev.outsystemsenterprise.com/STOCKSADMINSYSTEMS/"")",Chrome 114.0.0.0,,,2023-06-22 16:09:37,2023-06-22 16:09:38,0.559s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Username_Input_UsernameVal""), ""lemms14345"")",Chrome 114.0.0.0,,,2023-06-22 16:09:38,2023-06-22 16:09:40,2.540s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_Password_Input_PasswordVal""), ""mkFEn9pTYmSGCzLQlGwcKg=="")",Chrome 114.0.0.0,,,2023-06-22 16:09:40,2023-06-22 16:09:41,0.873s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Login""))",Chrome 114.0.0.0,,,2023-06-22 16:09:41,2023-06-22 16:09:42,0.657s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/input_Username_Input_UsernameVal""))",Chrome 114.0.0.0,,,2023-06-22 16:09:42,2023-06-22 16:09:43,0.952s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/i_Password_icon fa fa-eye-slash fa-2x""))",Chrome 114.0.0.0,,,2023-06-22 16:09:43,2023-06-22 16:09:43,0.428s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Password_Input_PasswordVal_1""), ""@New1234"")",Chrome 114.0.0.0,,,2023-06-22 16:09:43,2023-06-22 16:09:45,1.437s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Login""))",Chrome 114.0.0.0,,,2023-06-22 16:09:45,2023-06-22 16:09:45,0.569s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/i_User Management_icon fa fa-power-off fa-2x""))",Chrome 114.0.0.0,,,2023-06-22 16:09:45,2023-06-22 16:09:47,1.744s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/button_Logout""))",Chrome 114.0.0.0,,,2023-06-22 16:09:47,2023-06-22 16:09:48,0.589s,PASSED
